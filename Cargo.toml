@@ -1,0 +1,8 @@
+[package]
+name = "ubnt-info"
+version = "0.1.0"
+authors = ["Alex Zepeda <alex@inferiorhumanorgans.com>"]
+
+[dependencies]
+lazy_static = "*"
+regex = "*"
